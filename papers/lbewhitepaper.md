@@ -1,5 +1,3 @@
-White paper: 
-
 # Location-based entertainment
 Developing a large-scale multiplayer VR experience
 
