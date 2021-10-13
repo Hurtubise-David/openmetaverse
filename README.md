@@ -1,0 +1,2 @@
+# openmetaverse
+Open Metaverse is an open collection of papers, discussions, theories, libs for easing integration and interactions with all XRs and extended virtual worlds. The core library should implements the Metaverse basics rules, primitives, physics and mechanics, basics protocol xchanges betweens hardwares and softwares, AI, Motion Capture, blocking chains and finance, networking and latency, Database, 4D volumetry, Mobile 5G and Future! Everything need to be defined in the upcoming Metaverse
