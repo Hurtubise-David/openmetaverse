@@ -595,7 +595,8 @@ Also, Epic’s nDisplay technology is useful for LBE productions that require mu
 As for control of lights in the real world, Unreal Engine supports the DMX standard through a plugin released in Unreal Engine 4.25. Or you can use the OSC plugin or middleware solutions for controlling lights in real time that are compatible with the engine. 
 All these great Unreal Engine features will continue to be updated in the future to support the latest platforms SDKs. 
 In its essence, LBE is making people think it’s real, whatever the technology used. And we will see more next-generation LBE coming from Unreal Engine and from pioneers inventing new solutions, getting ever closer to the ultimate LBE experience. 
-About this document
+
+# About this document
 
 Authors
 David Hurtubise
