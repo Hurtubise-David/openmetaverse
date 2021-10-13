@@ -598,14 +598,26 @@ In its essence, LBE is making people think it’s real, whatever the technology 
 
 # About this document
 
-Authors
+Source: 
+
+Epic Games
+
+
+Authors:
+
 David Hurtubise
+
 Steve Smith
+
 Nick Whiting
 
-Collaborators
+
+Collaborator:
+
 Anthony Tominia
 
-Editor
+
+Editor:
+
 Michele Bousquet
 
