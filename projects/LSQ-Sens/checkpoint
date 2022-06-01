@@ -1,0 +1,2 @@
+model_checkpoint_path: "action.tf"
+all_model_checkpoint_paths: "action.tf"
